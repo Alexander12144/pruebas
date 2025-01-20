@@ -1,5 +1,8 @@
 # AppFotos
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6ddf0939c97645588650366b3ad62d2a)](https://app.codacy.com/gh/Alexander12144/pruebas?utm_source=github.com&utm_medium=referral&utm_content=Alexander12144/pruebas&utm_campaign=Badge_Grade)
+
+
 ![Grupo Fácil App](https://drive.google.com/uc?export=view&id=19QhuHsbfgJW-N_wQS9puXZ-dze9yA5fi)
 
 GrupoFacil es una aplicación para la Cooperativa de Ahorro y Crédito Santa Isabel que permite a los usuarios gestionar los prospectos de los créditos grupales del programa IMPULSA Mujer. La aplicación está programada en Flutter y actualmente tiene builds disponibles para los sistemas operativos Android y Windows.
