@@ -1,0 +1,1 @@
+./scripts/pull_db.ps1
